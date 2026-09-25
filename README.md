@@ -91,4 +91,5 @@ the delta rendering is what keeps it smooth — instead of repainting the whole 
 - pure ansi escape codes for color 💅
 
 ---
-*made with 🩷 because terminal art is cool*
+🌸 not a terminal person? no worries — visit the web version at https://nosina-hub.github.io/vid2ascii/ and drag & drop your video right in your browser 🩷
+*🩷 because terminal art is cool*
