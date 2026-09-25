@@ -91,5 +91,5 @@ the delta rendering is what keeps it smooth — instead of repainting the whole 
 - pure ansi escape codes for color 💅
 
 ---
-> [✨ live demo](https://claude.ai/artifact/Ce9B5yb2Q7hKQBnhGGZqHp)
+python ascii_renderer.py video.mp4 --link https://github.com/yourname/repo
 *made with 🩷 because terminal art is cool*
